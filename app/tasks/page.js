@@ -5,7 +5,8 @@ export default function Tasks() {
     "Complete Next.js Tutorial",
     "Read Software Engineering Notes",
     "Practice Git Commands",
-    "Prepare Assignment"
+    "Prepare Assignment",
+    "Prepare for Exam"
   ];
 
   return (
